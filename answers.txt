@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to many fields in the sciences and business. Businesses use data science to predict the products that their customers would want to buy. Through surveys they can query the market for its preferences and then tailor the companies operations to fit into the market niche that consumers want filled. In the sciences data science can be used to find patterns in the behaviors of the natural world. For example, if there is a large data set that requires analysis or an experiment that needs to be simulated prior to being conducted data science can help us investigate. Looking into new correlations can help researchers spot new phenomena uncovering how our natural world works.
