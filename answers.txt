@@ -9,4 +9,8 @@ Answer: Data science can be applied to many fields in the sciences and business.
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: The difference between Merging and Rebasing is that in git merging you combine multiple branches into a single branch. However when you rebase, you move a branch onto another branch. 
+Answer: The difference between Merging and Rebasing is that in git merging you combine multiple branches into a single branch. However when you rebase, you move a branch onto another branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning how to clean data and draw conclusion from it. I really enjoy looking at CSV data. I absolutely love professor Fardina and her enthusiasm. 
